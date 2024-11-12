@@ -28,11 +28,11 @@ export default function Cart() {
         <div className="lg:col-span-2 space-y-4">
           {items.map((item) => (
             <div key={item.id} className="flex items-center space-x-4 p-4 bg-white rounded-lg shadow">
-              <img
+              {/*<img
                 src={item.product.image_url}
                 alt={item.product.name}
                 className="w-24 h-24 object-cover rounded"
-              />
+              />*/}
               <div className="flex-1">
                 <h3 className="text-lg font-medium text-gray-900">{item.product.name}</h3>
                 <p className="text-gray-500">${item.product.price.toFixed(2)}</p>
