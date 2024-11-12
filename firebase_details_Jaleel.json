@@ -1,0 +1,15 @@
+{
+  "type": "service_account",
+  "project_id": "fullstack-project-foreverloops",
+  "private_key_id": "16607e70cf99b93bef1a472cb1eac3087f73e8fb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDINyIVo++xvDRu\npTSNoF5OvHx0tMhFhzxcAA1MkMikcceg1Eb6G2NTC7BG0DNytKC90TXbRZMzB+y/\n2i4Ms78M+Q5/51L4K1Z98fRHogmp2XlRF42v8oBSxIyXHponlhY0WZj6HCc9OUsv\nCnAonRji/dl1zvE5BBsgVuxyJwkrHc8M+0ht55PhCZfxy/++aQqhPZH0Q2vQpPMn\n+wugePwOupXLGBAKMPT8WBIEaDvR9i7Pz9kJmV/lE3elYuU8mHMYWlLrXL+zOq7a\nyb8iVq2gMywvE1N6kaO5z4rJwHGoWNWPVk72G6L9Bg1+6ZVslqlPfLL5GY/ItK+g\nhBwbxgj7AgMBAAECggEAJjMetbJJkUevWUz78emfFLaxqDK1404iHguEfg9BuN5c\nkDrwL9f542Zfg6NFraT45j58YBGuPBZO/WvLTXEeCoOaWJzyH5dlMTJwwRoRbe6o\nTuiHiAJkqWYGzO5xywu/wM03esDUW8IKrjb3n0gZ73UvgGKzc4VtB4aOJll8TlVT\nP7x6Y6jf7v7w8dYLFyIT+oj7kU8kNwacCOEQiW5h6TaRL2JslE4fk0z3fBwBYQsC\nJNtd07mchjoSxjyLIPuJufTXnIkDF1T6jrzzme2176js1rhZfNmzC2m/zW/tWeNr\nidkjm+BV385G9UU8Wi+oMwkwutxJe8SJdAS8CBupAQKBgQDiqqPnijxaX600O5bc\nTSK+JysgQWVlWH3DgTxbmtOhj0f0J6Cmi9F0dDuZCWxIqRfiB2q3vppcjyW53lpZ\n1VjlkkUjYlqMAIKtzBk0sJ5AUdOe2DGV6Z7F9V8oNoOyp7313qd8VLpuPXdOWSEm\nfdFWs/jkNebPcvGdC/8a3Za5qwKBgQDiIC091gH1X1Ds8yhDHH2YYT0RWDy+xJWE\nLRwuajvOTc9zKjCTHyg56PsAvQBCfkaRP67xfE7FwTz+d5xAxE6Q2c65lHYB5k94\nDgtlH6LPThGpMMbgBNhVuA6JvK5bi88Cy/CNvKbHqbBZMvbAgsCwEzcT9jJ/o0Yo\n2AmCC2q98QKBgQCHkSG40R/puYGhVOaU2nmmG00a3KIlbDjD3p7X9xEOduDFMZJP\nKh7bNM2UaWNfTesf3+m+/fva0i7xLQEC66xgmgxJ7oBTbda61fBZaC0uMQKN5aY6\nkGDK60e/iGNaTiM6U7H+lbpvRsn9jSdbmzLCVZ/N9kMW3huOH2ezjMaiQwKBgQCX\nVfuRV+oFox4RBweaKrYvxlxNgGVfM0fxpxMmSTjvcIn3RHQv8nlEkJV0QAmtdr+Z\ntCpMOeqqVRKSJ9DuU7NVJEBDWYXE7bOf4J5ltk+LOG9/cUKYaQW0ELPCIQH8CMyp\nzX2YDnr8Q6ffeslDu/5jmOiStoHDhK2O5k8utp9gsQKBgQCIeA/h+35wiG068YfQ\n6KqHtOCHHKp0vR7/GJ4v39mPW1kHeqdNx4gn1qLX0Ab2PI5m8QVhWI5/wN8SbSJe\n+YdTKBPG0cMkv3AMw3csDStsCHrqkbeaOaSsvGGo3Fh74PuJQUVA3Eg5z/weXXZE\n+j6mD25agpRueq3Wgqx5thje4Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pgofm@fullstack-project-foreverloops.iam.gserviceaccount.com",
+  "client_id": "110085404802858353566",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pgofm%40fullstack-project-foreverloops.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
+// or create a new firebase project
