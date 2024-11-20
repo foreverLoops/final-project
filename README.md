@@ -94,11 +94,13 @@ Create a feature branch:
 ```bash
 git checkout -b feature/your-feature-name
 ```
+
 Commit your changes:
 
 ```bash
 git commit -m "Add your feature description"
 ```
+
 Push to the branch:
 
 ```bash
