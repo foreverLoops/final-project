@@ -90,24 +90,25 @@ We welcome contributions from the community!
 
 Fork the repository.
 Create a feature branch:
-bash
-Copy code
+
+```bash
 git checkout -b feature/your-feature-name
+```
 Commit your changes:
-bash
-Copy code
+
+```bash
 git commit -m "Add your feature description"
+```
 Push to the branch:
-bash
-Copy code
+
+```bash
 git push origin feature/your-feature-name
-Create a pull request.
+```
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For questions or collaboration, please reach out:
 
-Team Forever Loops
-Email
-GitHub Repository
+ 💌 Email: [shabbeerpetersen10@gmail.com]
