@@ -1,70 +1,113 @@
-# Getting Started with Create React App
+# Shop Sphere
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Empowering local businesses and connecting shoppers to unique, high-quality products.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Tech Stack](#tech-stack)
+4. [Getting Started](#getting-started)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Overview
 
-### `npm test`
+**Shop Sphere** is a full-stack e-commerce platform designed to help small and medium-sized businesses reach a broader audience while offering a seamless shopping experience for consumers.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Key highlights of the platform:
+- Businesses can upload and manage their products effortlessly.
+- A review process ensures product quality and compliance before approval.
+- Shoppers can browse and purchase items from a variety of local sellers, supporting their communities.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### For Businesses:
+- Product submission with image uploads.
+- Inventory tracking through the platform.
+- Simple and intuitive UI for managing product listings.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### For Shoppers:
+- Browse and purchase approved products.
+- Discover unique items from local sellers.
+- Responsive and user-friendly design.
 
-### `npm run eject`
+### Admin:
+- Approve or reject product submissions.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Front-End**: [React](https://reactjs.org/)
+- **Back-End**: [Express](https://expressjs.com/)
+- **Database**: [Firebase Firestore](https://firebase.google.com/products/firestore)
+- **Cloud Storage**: [Firebase Storage](https://firebase.google.com/products/storage)
+- **Authentication**: Firebase Authentication
+- **CI/CD**: [GitLab](https://about.gitlab.com/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## Getting Started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Prerequisites
+- [Node.js](https://nodejs.org/) installed.
+- [Firebase CLI](https://firebase.google.com/docs/cli) installed.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Installation
 
-### Code Splitting
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/shop-sphere.git
+   cd shop-sphere
+Install dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm install
+```
+Create a .env file in the root directory and add your Firebase configuration:
 
-### Analyzing the Bundle Size
+Start the development server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+npm start
+```
 
-### Making a Progressive Web App
+Usage
+Businesses: Upload products and track their status.
+Admins: Approve or reject product submissions.
+Shoppers: Browse, add items to their cart, and complete purchases.
+Contributing
+We welcome contributions from the community!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Fork the repository.
+Create a feature branch:
+bash
+Copy code
+git checkout -b feature/your-feature-name
+Commit your changes:
+bash
+Copy code
+git commit -m "Add your feature description"
+Push to the branch:
+bash
+Copy code
+git push origin feature/your-feature-name
+Create a pull request.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-### Advanced Configuration
+Contact
+For questions or collaboration, please reach out:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Team Forever Loops
+Email
+GitHub Repository
