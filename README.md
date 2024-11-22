@@ -11,9 +11,8 @@ Empowering local businesses and connecting shoppers to unique, high-quality prod
 3. [Tech Stack](#tech-stack)
 4. [Getting Started](#getting-started)
 5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+6. [License](#license)
+7. [Contact](#contact)
 
 ---
 
@@ -22,6 +21,7 @@ Empowering local businesses and connecting shoppers to unique, high-quality prod
 **Shop Sphere** is a full-stack e-commerce platform designed to help small and medium-sized businesses reach a broader audience while offering a seamless shopping experience for consumers.
 
 Key highlights of the platform:
+
 - Businesses can upload and manage their products effortlessly.
 - A review process ensures product quality and compliance before approval.
 - Shoppers can browse and purchase items from a variety of local sellers, supporting their communities.
@@ -30,17 +30,20 @@ Key highlights of the platform:
 
 ## Features
 
-### For Businesses:
+### For Businesses
+
 - Product submission with image uploads.
 - Inventory tracking through the platform.
 - Simple and intuitive UI for managing product listings.
 
-### For Shoppers:
+### For Shoppers
+
 - Browse and purchase approved products.
 - Discover unique items from local sellers.
 - Responsive and user-friendly design.
 
-### Admin:
+### Admin
+
 - Approve or reject product submissions.
 
 ---
@@ -59,20 +62,24 @@ Key highlights of the platform:
 ## Getting Started
 
 ### Prerequisites
+
 - [Node.js](https://nodejs.org/) installed.
 - [Firebase CLI](https://firebase.google.com/docs/cli) installed.
 
-### Installation
+## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/<your-username>/shop-sphere.git
    cd shop-sphere
+
 Install dependencies:
 
 ```bash
 npm install
 ```
+
 Create a .env file in the root directory and add your Firebase configuration:
 
 Start the development server:
@@ -81,7 +88,8 @@ Start the development server:
 npm start
 ```
 
-Usage
+## Usage
+
 Businesses: Upload products and track their status.
 Admins: Approve or reject product submissions.
 Shoppers: Browse, add items to their cart, and complete purchases.
@@ -107,10 +115,12 @@ Push to the branch:
 git push origin feature/your-feature-name
 ```
 
-License
+## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
+
 For questions or collaboration, please reach out:
 
  💌 Email: [shabbeerpetersen10@gmail.com]
