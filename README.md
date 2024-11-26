@@ -55,6 +55,7 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/e-commerce-web-project.git
 cd e-commerce-web-project
+```
 
 ### Install Dependencies
 
@@ -74,13 +75,15 @@ This will install all the necessary dependencies listed in the package.json file
 
 ### Environment Configuration
 
-Create a .env file in the root of the project (if not already created) and configure any necessary environment variables, such as API keys or database URLs.
-
-For example:
+Create a .env file in the root directory to store environment variables, including Firebase configuration keys. Example:
 
 ```bash
-REACT_APP_API_URL=https://api.your-backend.com
-REACT_APP_AUTH_KEY=your-auth-key
+REACT_APP_FIREBASE_API_KEY=your-api-key
+REACT_APP_FIREBASE_AUTH_DOMAIN=your-auth-domain
+REACT_APP_FIREBASE_PROJECT_ID=your-project-id
+REACT_APP_FIREBASE_STORAGE_BUCKET=your-storage-bucket
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your-messaging-sender-id
+REACT_APP_FIREBASE_APP_ID=your-app-id
 ```
 
 ### Running the Application
@@ -113,8 +116,6 @@ or
 yarn test
 ```
 
-This will execute the tests using Jest and React Testing Library.
-
 ### Build for Production
 
 To build the project for production, use:
@@ -133,16 +134,22 @@ This will create an optimized production build in the build folder. You can depl
 
 ### Run it remotely
 
-<https://forevercarenew.netlify.app/>
+<https://shopsphere5.netlify.app/>
 
 ## Usage
 
-Once the app is running, you can access various features depending on your user role (doctor, patient, or admin):
+### Entrepreneurs
 
-- Doctors: Manage their schedules, view patient records, issue prescriptions, and conduct telemedicine consultations.
-- Patients: Book appointments, view medical histories, and communicate securely with doctors.
-- Admins: Manage users, view appointments, and oversee the platform.
-Contributing
+1. Register or log in as an entrepreneur.
+2. Add or manage product listings, including images, descriptions, and pricing.
+3. Track inventory and monitor sales in the dashboard.
+
+### Customers
+
+1. Register or log in as a customer.
+2. Browse products by categories or search for specific items.
+3. Add items to the shopping cart and proceed to secure checkout.
+4. View order history and track purchases.
 
 ## Contact
 
